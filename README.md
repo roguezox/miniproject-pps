@@ -1,4 +1,4 @@
 # miniproject-pps
 
-No Need to describe muc , you know what tic tac toe is , if not , google up 
+No Need to describe it , you know what tic tac toe is , if not , google up 
 
